@@ -24,3 +24,7 @@ This is an open-source Chinese subtitle file for Full Service and Camp Buddy (in
 你分发时候可以做的事：
 
 改正翻译文本（甚至可以向我提pr，甚至你可以直接著名你是翻译，只要你真的翻译了）
+
+本项目有权无条件使用基于本项目衍生出来的修正翻译文本
+
+另外，修改后的文本也必须遵循上述许可，只要是直接使用了本项目的文本都则必须是这个授权
